@@ -1,8 +1,6 @@
 '''
 ---------------------------------------------------------------------------------------------------
 Reworked version of the calc conversion-and-formatting tool made to help accountants with finances handling/formatting.
-
-Obs: Planned to only work on UNIX-based systems
 ---------------------------------------------------------------------------------------------------
 '''
 
